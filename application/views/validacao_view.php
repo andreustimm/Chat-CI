@@ -1,0 +1,1 @@
+<div class="validacao">{msg_erro}</div>
